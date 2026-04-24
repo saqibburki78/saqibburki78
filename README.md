@@ -65,7 +65,7 @@
 ## 📫 **Let's Connect!**  
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saqibburki45/)
-[![Portfolio]([https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)]([https://saqibburkidev.vercel.app/])
+<a href="https://saqibburkidev.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-1f42ff?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saqibburki45@gmail.com)  
 
 ---

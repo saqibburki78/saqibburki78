@@ -1,7 +1,10 @@
-# 👋 Hi, I'm [Saqib Khan] 
+<div align="center">
+  <h1>SAQIB KHAN</h1>
+  <p><b>Founding AI Engineer | Full-Stack Architect | RAG Systems Specialist</b></p>
+  <br>
+</div>
 
-### **MERN Stack Developer | 2+ Years of Experience | JavaScript Enthusiast**  
-I build **scalable web apps** with React, Node.js, and MongoDB. Passionate about clean code, open-source, and solving real-world problems with tech.  
+> **Architecting intelligent systems at the intersection of Generative AI and automated digital workflows.** > Specializing in the Next.js ecosystem, I design scalable SaaS platforms and high-performance RAG pipelines that leverage Vector Databases to solve complex automation and data distribution challenges.
 
 ---
 
@@ -47,29 +50,27 @@ I build **scalable web apps** with React, Node.js, and MongoDB. Passionate about
 
 ## 🚀 **Featured Projects**  
 
-🔗 **[Project 1](https://github.com/yourusername/project1)**  
-A full-stack MERN app with Docker deployment and NGINX reverse proxy.  
+🔗 **[ClipDrop](https://github.com/saqibburki78/CLIPDROP-readme)** | *Automated Media Lifecycle SaaS*
+* **Stack:** Next.js, Gemini API, AssemblyAI, Remotion, YouTube/Facebook APIs.
+* **Architecture:** Engineered a programmatic pipeline that ingests long-form podcast audio, utilizes AI for intelligent cropping and captioning, and outputs viral short-form video for automated cross-platform distribution.
 
-🔗 **[Project 2](https://github.com/yourusername/project2)**  
-A Next.js + TypeScript SaaS platform deployed on Vercel.  
+🔗 **[IslamicGPT](https://islamicgpt-sand.vercel.app/)** | *High-Fidelity RAG Search Engine*
+* **Stack:** Next.js, TypeScript, Qdrant DB, LangChain, Prompt Engineering.
+* **Architecture:** Designed a specialized ingestion and retrieval engine. Utilizes Gemini embeddings and vector search to process massive libraries of classical texts, ensuring high-accuracy, hallucination-resistant querying.
 
-🔗 **[Project 3](https://github.com/yourusername/project3)**  
-A Personlized Chatbot using Node js and react.
----
+🔗 **[FSOCIETY](https://fsociety-kappa.vercel.app)** | *Decentralized Knowledge Forum*
+* **Stack:** Next.js, TypeScript, Next-Auth, MongoDB.
+* **Architecture:** Developed a scalable, secure discourse platform featuring robust OAuth session management, dark-pattern-free UI, and flexible schema validation using native MongoDB drivers.
 
 ## 🔥 **Currently Learning**  
-- **Next js**  
-- **Microservices with Docker & Kubernetes**  
-- **Advanced React Patterns**  
-- **NGINX Configuration & Optimization** 
-
+- **System design || devOps**
 ---
 
 ## 📫 **Let's Connect!**  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Portfolio]([https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)]([https://saqibburki.github.io/Protfolio/])
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saqibburki78@gmail.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/saqibburki45/)
+[![Portfolio]([https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=google-chrome&logoColor=white)]([https://saqibburkidev.vercel.app/])
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saqibburki45@gmail.com)  
 
 ---
 

@@ -4,7 +4,7 @@
   <br>
 </div>
 
-> **Architecting intelligent systems at the intersection of Generative AI and automated digital workflows.** > Specializing in the Next.js ecosystem, I design scalable SaaS platforms and high-performance RAG pipelines that leverage Vector Databases to solve complex automation and data distribution challenges.
+> **Full-Stack Software Architect specializing in the intersection of Generative AI and automated digital ecosystems. With over 3 years of experience in the Next.js and MERN stack, I design high-performance systems that leverage Vector Databases (Qdrant) and LLMs to solve complex data retrieval and content distribution challenges. From engineering specialized RAG applications to building SaaS platforms that automate cross-platform social media workflows, I focus on delivering scalable, production-ready AI solutions.
 
 ---
 
